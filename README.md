@@ -2,4 +2,4 @@
 
 I am currently trying to setup my personal website and learning the basics of neural networks. I would love to collaborate on any projects related to machine learning or signal processing.
 
-You can reach me via email at mail@karanjayachandra.com or on LinkedIn at /mrkaranj.
+You can reach me via [email](mailto:mail@karanjayachandra.com) or on [LinkedIn](https://www.linkedin.com/in/mrkaranj/).
